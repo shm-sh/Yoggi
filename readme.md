@@ -1,2 +1,1 @@
-1.pip install -r requirements.txt
-2.python main2.py
+<h1>B.Tech Major Project under the guidance of Prof. Shivesh Sharma</h1>
